@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nepherence
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning Software and Full-Stack Development
+- 🌱 I’m currently learning SQL
 - 💞️ I’m not quite looking to collaborate on anything at the moment. 
 - 📫 Reach me at nepherence@gmail.com
 
