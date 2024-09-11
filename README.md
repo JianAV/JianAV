@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jian
 - 👀 I’m interested in learning Software and Full-Stack Development
 - 🌱 I’m currently learning SQL
-- 💞️ I’m not quite looking to collaborate on anything at the moment. 
+- 💞️ I'd be glad to collaborate on web applications. 
 - 📫 Reach me at jian.verdad@gmail.com
 
 <!---
