@@ -6,4 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jian-verdad/)](https://www.linkedin.com/in/jian-verdad/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jian.verdad@gmail.com)](mailto:jian.verdad@gmail.com)
 
-I am Jian Verdad
+<p>I am Jian Verdad. I am a CSULA alumni and I love exploring new skills and technologies!
+
+##Technologies
+- Front-end development: **React, jQuery, Bootstrap**
