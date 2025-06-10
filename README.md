@@ -15,17 +15,21 @@
 🍵 Database languages: **SQL, MySQL, PostgreSQL, MongoDB**<br/>
 🍵 Microservices utilized: **AWS (Lambda, Cloudwatch), Box API, several other RestAPIs**<br/>
 
+<!-- 
 ## Hobbies
 🍵 Experimenting with various tea leaf blends<br/>
 ✏️ Studying animation processes<br/>
 🎵 Discovering new music from around the world<br/>
 🎮 Playing quick side games<br/>
 🖥️ Browsing trending repositories for interesting tools or projects from other people<br/>
+-->
 
 ## Want to Fiddle With Later...
 🍵 Languages: **TailwindCSS, SCSS**<br/>
 🍵 Mobile-app development<br/>
+<!-- 
 🍵 Casual: 3D Modeling and Animation, Video Editing, growing an herb garden<br/>
+-->
 
 <!-- 
   Add to show my horrible github stats lol...
